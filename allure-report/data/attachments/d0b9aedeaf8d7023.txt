@@ -1,0 +1,2 @@
+{'coord': {'lon': 12.5, 'lat': 41.9}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02d'}], 'base': 'stations', 'main': {'temp': 293.61, 'feels_like': 293.23, 'temp_min': 292.17, 'temp_max': 293.81, 'pressure': 1013, 'humidity': 58, 'sea_level': 1013, 'grnd_level': 1002}, 'visibility': 10000, 'wind': {'speed': 2.06, 'deg': 140}, 'clouds': {'all': 20}, 'dt': 1778253294, 'sys': {'type': 1, 'id': 6796, 'country': 'IT', 'sunrise': 1778212662, 'sunset': 1778264118}, 'timezone': 7200, 'id': 6545158, 'name': 'Trevi', 'cod': 200}
+<Response [200 OK]>

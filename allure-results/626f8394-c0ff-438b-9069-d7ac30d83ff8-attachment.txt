@@ -1,0 +1,2 @@
+{'coord': {'lon': 88.22, 'lat': 69.33}, 'weather': [{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}], 'base': 'stations', 'main': {'temp': 263.5, 'feels_like': 256.53, 'temp_min': 263.5, 'temp_max': 263.5, 'pressure': 1003, 'humidity': 94, 'sea_level': 1003, 'grnd_level': 992}, 'visibility': 2771, 'wind': {'speed': 4.54, 'deg': 288, 'gust': 7.86}, 'clouds': {'all': 100}, 'dt': 1778246549, 'sys': {'country': 'RU', 'sunrise': 1778184558, 'sunset': 1778255877}, 'timezone': 25200, 'id': 1497337, 'name': "Noril'sk", 'cod': 200}
+<Response [200 OK]>

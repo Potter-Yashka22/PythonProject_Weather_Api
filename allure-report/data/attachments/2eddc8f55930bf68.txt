@@ -1,0 +1,2 @@
+{'cod': '400', 'message': 'Nothing to geocode'}
+<Response [400 Bad Request]>

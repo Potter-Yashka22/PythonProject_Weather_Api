@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","96","Поиск погоды с пустым запросом  → ошибка 404","tests.api","2026-05-12","passed","2026-05-12","","test_weather","",""
+"","103","test_weather_by_coordinates[69.33-88.22-Noril'sk]","tests.api","2026-05-12","passed","2026-05-12","","test_weather","",""
+"","108","test_weather_by_coordinates[41.72-44.78-Saburtalo]","tests.api","2026-05-12","passed","2026-05-12","","test_weather","",""
+"","106","test_weather_by_coordinates[41.9-12.5-Trevi]","tests.api","2026-05-12","passed","2026-05-12","","test_weather","",""
+"","94","test_weather_by_city_name","tests.api","2026-05-12","passed","2026-05-12","","test_weather","",""
+"","152","test_weather_by_timestamps","tests.api","2026-05-12","passed","2026-05-12","","test_weather","",""
+"","114","Поиск погоды по несуществующему городу → ошибка 404","tests.api","2026-05-12","passed","2026-05-12","","test_weather","",""

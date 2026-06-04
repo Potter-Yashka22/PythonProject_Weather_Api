@@ -1,0 +1,2 @@
+{'cod': '404', 'message': 'city not found'}
+<Response [404 Not Found]>

@@ -1,0 +1,15 @@
+{'coord': {'lon': 23.3242, 'lat': 42.6975}, 'weather': [{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}], 'base': 'stations', 'main': {'temp': 18.21, 'feels_like': 17.42, 'temp_min': 18.21, 'temp_max': 18.83, 'pressure': 1014, 'humidity': 51, 'sea_level': 1014, 'grnd_level': 936}, 'visibility': 10000, 'wind': {'speed': 4.63, 'deg': 150}, 'clouds': {'all': 100}, 'dt': 1778247969, 'sys': {'type': 2, 'id': 2104664, 'country': 'BG', 'sunrise': 1778209950, 'sunset': 1778261634}, 'timezone': 10800, 'id': 727011, 'name': 'Sofia', 'cod': 200}
+<Response [200 OK]>
+coord:{'lon': 23.3242, 'lat': 42.6975}
+weather:[{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04d'}]
+base:stations
+main:{'temp': 18.21, 'feels_like': 17.42, 'temp_min': 18.21, 'temp_max': 18.83, 'pressure': 1014, 'humidity': 51, 'sea_level': 1014, 'grnd_level': 936}
+visibility:10000
+wind:{'speed': 4.63, 'deg': 150}
+clouds:{'all': 100}
+dt:1778247969
+sys:{'type': 2, 'id': 2104664, 'country': 'BG', 'sunrise': 1778209950, 'sunset': 1778261634}
+timezone:10800
+id:727011
+name:Sofia
+cod:200
